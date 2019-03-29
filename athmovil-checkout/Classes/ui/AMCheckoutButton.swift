@@ -41,7 +41,7 @@ import Foundation
         let bundle = Bundle(for: type(of: self))
         if let buttonImage = style.image(bundle: bundle, lang) {
             setImage(buttonImage, for: .normal)
-            imageEdgeInsets = UIEdgeInsetsMake(16, 0, 16, 0)
+            imageEdgeInsets = UIEdgeInsets(top: 16, left: 0, bottom: 16, right: 0)
             imageView?.contentMode = .scaleAspectFit
             adjustsImageWhenHighlighted = false
         }

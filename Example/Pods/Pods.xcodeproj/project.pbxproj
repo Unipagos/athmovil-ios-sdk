@@ -68,7 +68,7 @@
 		04C7F79BC7607A5951A62DDF5FBC79D9 /* Pods-athmovil-checkout_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-athmovil-checkout_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		1DFB04E1926DE6C24EB09C3AEF40CC79 /* Pods-athmovil-checkout_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-athmovil-checkout_Tests-resources.sh"; sourceTree = "<group>"; };
 		1EBF010B3C040777F5E0F5DEE6518CA9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		227F13CE5F53BC17EF7FCA04392DC5A8 /* Pods_athmovil_checkout_ExampleObjC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_athmovil_checkout_ExampleObjC.framework; path = "Pods-athmovil-checkout_ExampleObjC.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		227F13CE5F53BC17EF7FCA04392DC5A8 /* Pods_athmovil_checkout_ExampleObjC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_athmovil_checkout_ExampleObjC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		23A7630B44B0E18508735D9AFD4DAB3B /* athmovil-checkout.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "athmovil-checkout.modulemap"; sourceTree = "<group>"; };
 		2B5BB3A02D598A06D5A823BE8EA55A84 /* Pods-athmovil-checkout_ExampleObjC-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-athmovil-checkout_ExampleObjC-umbrella.h"; sourceTree = "<group>"; };
 		2D29D4AF7E09BAFBA787E3F3466BA165 /* Pods-athmovil-checkout_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-athmovil-checkout_Example.modulemap"; sourceTree = "<group>"; };
@@ -78,8 +78,8 @@
 		446ED45D8B35473A3F10E7DABE8DCB72 /* ResourceBundle-athmovil-checkout-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-athmovil-checkout-Info.plist"; sourceTree = "<group>"; };
 		46C5EEE212CFF395FBA517B833547601 /* Pods-athmovil-checkout_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-athmovil-checkout_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		507903F64762B6FB188B7E1857800437 /* Pods-athmovil-checkout_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-athmovil-checkout_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		55416ECD6D4D0B4F2A62B949C80C6225 /* athmovil-checkout.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = "athmovil-checkout.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		59A6A47077A7663D2133C8CDE97F0CAC /* athmovil-checkout.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "athmovil-checkout.bundle"; path = "athmovil-checkout-athmovil-checkout.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		55416ECD6D4D0B4F2A62B949C80C6225 /* athmovil-checkout.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = "athmovil-checkout.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		59A6A47077A7663D2133C8CDE97F0CAC /* athmovil-checkout.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "athmovil-checkout.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		5AD91B4C004B91F8988E2618233ED94C /* athmovil-checkout-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "athmovil-checkout-dummy.m"; sourceTree = "<group>"; };
 		61692A9E75C76A29017B1A6A47A935FA /* athmovil-checkout.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "athmovil-checkout.xcconfig"; sourceTree = "<group>"; };
@@ -97,14 +97,14 @@
 		8256AF34FA06B0D302878217F93F6295 /* AMCheckout.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AMCheckout.swift; path = "athmovil-checkout/Classes/AMCheckout.swift"; sourceTree = "<group>"; };
 		89D18FE77F8FA3272427EA9BB5B5E9B0 /* Pods-athmovil-checkout_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-athmovil-checkout_Example-frameworks.sh"; sourceTree = "<group>"; };
 		8A1A88A59C49DA52561B5E3F042F6485 /* Pods-athmovil-checkout_ExampleObjC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-athmovil-checkout_ExampleObjC.release.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		96AFA97D63EF6EED07362506E7154FED /* Pods-athmovil-checkout_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-athmovil-checkout_Example-umbrella.h"; sourceTree = "<group>"; };
-		98FCC6AABA3F736749100BC8C74A724C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		98FCC6AABA3F736749100BC8C74A724C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A354B0A7DF51D050702EE25083DC7789 /* Pods-athmovil-checkout_ExampleObjC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-athmovil-checkout_ExampleObjC.debug.xcconfig"; sourceTree = "<group>"; };
 		A76D3D1C5E138C581EA6F0B9618329BF /* Pods-athmovil-checkout_ExampleObjC-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-athmovil-checkout_ExampleObjC-dummy.m"; sourceTree = "<group>"; };
 		B05791C6889D187F3E2511FA6F252129 /* Pods-athmovil-checkout_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-athmovil-checkout_Tests-dummy.m"; sourceTree = "<group>"; };
 		B32D7B6910F02D3960986E069FEED730 /* String+JSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "String+JSON.swift"; sourceTree = "<group>"; };
-		BEED54E242A00C05E8168F9CDC076F77 /* Pods_athmovil_checkout_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_athmovil_checkout_Tests.framework; path = "Pods-athmovil-checkout_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEED54E242A00C05E8168F9CDC076F77 /* Pods_athmovil_checkout_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_athmovil_checkout_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C026BA6734306BDE5B41A68C8646BF22 /* String+UTF8Data.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "String+UTF8Data.swift"; sourceTree = "<group>"; };
 		C24328AB4DCFB651C12EAB7193851E9A /* AMPayment.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AMPayment.swift; sourceTree = "<group>"; };
 		C36447AF8436E518662F400D5B2CBB94 /* AMCheckoutButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AMCheckoutButton.swift; sourceTree = "<group>"; };
@@ -116,12 +116,12 @@
 		D58E1D2DAFDD8BD05DFE92B1AE322026 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DF2774001E03003EF6FD98CA6B97CD8B /* AMPaymentItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AMPaymentItem.swift; sourceTree = "<group>"; };
 		E02D68754297022A2BC6F4DE6AD095C1 /* Pods-athmovil-checkout_ExampleObjC-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-athmovil-checkout_ExampleObjC-acknowledgements.plist"; sourceTree = "<group>"; };
-		E214637D5F4E362FE577FD80A9CA51A1 /* Pods_athmovil_checkout_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_athmovil_checkout_Example.framework; path = "Pods-athmovil-checkout_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E214637D5F4E362FE577FD80A9CA51A1 /* Pods_athmovil_checkout_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_athmovil_checkout_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F216B406EA987F467AF40519205D3E8F /* Pods-athmovil-checkout_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-athmovil-checkout_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		F24C17D13783605DC5E77E12DBD18511 /* Pods-athmovil-checkout_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-athmovil-checkout_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		F5544DF30CDD729D999E5E8289C7FB09 /* Pods-athmovil-checkout_ExampleObjC-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-athmovil-checkout_ExampleObjC-resources.sh"; sourceTree = "<group>"; };
-		FA7562E5466C6C7840F206AA377FC510 /* athmovil_checkout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = athmovil_checkout.framework; path = "athmovil-checkout.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FCAA4C60D3034489651AD41560416DB6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		FA7562E5466C6C7840F206AA377FC510 /* athmovil_checkout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = athmovil_checkout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FCAA4C60D3034489651AD41560416DB6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -494,12 +494,18 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
+				TargetAttributes = {
+					30BD76CA4D40187E95F34ED8073D7FC1 = {
+						DevelopmentTeam = JU33AQ3V5D;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
@@ -656,6 +662,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/athmovil-checkout";
+				DEVELOPMENT_TEAM = JU33AQ3V5D;
 				INFOPLIST_FILE = "Target Support Files/athmovil-checkout/ResourceBundle-athmovil-checkout-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_NAME = "athmovil-checkout";
@@ -814,7 +821,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -921,7 +928,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1008,6 +1015,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/athmovil-checkout";
+				DEVELOPMENT_TEAM = JU33AQ3V5D;
 				INFOPLIST_FILE = "Target Support Files/athmovil-checkout/ResourceBundle-athmovil-checkout-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_NAME = "athmovil-checkout";
